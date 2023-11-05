@@ -37,14 +37,14 @@ SRGAN is a generative adversarial network architecture developed to address the 
 
 The trained SRGAN model successfully generates super-resolved images, enhancing the visual quality and resolution of input images. Here is a sample of the super-resolved images:
 
-![Super-Resolved Image 1](results/res1.png)
-*Caption for Image 1*
+![Super-Resolved Image 1](results/res1.png)<br>
+*Result1*
 
-![Super-Resolved Image 2](results/res2.png)
-*Caption for Image 2*
+![Super-Resolved Image 2](results/res2.png)<br>
+*Result2*
 
-![Super-Resolved Image 2](results/res3.png)
-*Caption for Image 2*
+![Super-Resolved Image 2](results/res3.png)<br>
+*Result3*
 
 ## Acknowledgments
 
