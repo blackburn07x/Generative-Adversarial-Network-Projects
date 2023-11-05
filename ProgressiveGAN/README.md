@@ -2,7 +2,6 @@
 # Progressive GAN Implementation on CelebA Dataset
 
 ![CelebA Images](results/orig.png)
-
 ## Table of Contents
 
 - [Overview](#overview)
