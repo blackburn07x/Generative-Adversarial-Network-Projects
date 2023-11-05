@@ -34,10 +34,10 @@ Progressive GAN is a generative model introduced in the research paper "Progress
 
 ## Results
 
-![Generated Image 1](results/img32.png)
+![Generated Image 1](results/img32.png)<br>
 *32x32 images generated*
-
-![Generated Image 2](results/img64.png)
+<br>
+![Generated Image 2](results/img64.png)<br>
 *64x64 images generated*
 
 Due to limited computational resources, further training of the model was stopped at this stage. While the generated 64x64 images are promising, PGAN has the potential to generate even higher-resolution images with extended training. Future work may involve overcoming resource constraints to continue training and explore larger image sizes.
