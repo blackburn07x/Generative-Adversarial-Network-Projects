@@ -8,10 +8,7 @@
 - [Overview](#overview)
 - [Progressive GAN](#progressive-gan)
 - [Requirements](#requirements)
-- [Usage](#usage)
-- [Configuration](#configuration)
 - [Results](#results)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [References](#references)
 
@@ -35,4 +32,22 @@ Progressive GAN is a generative model introduced in the research paper "Progress
 - TensorFlow 2.0 or higher
 - CelebA dataset
 
+## Results
+
+![Generated Image 1](results/image1.png)
+*32x32 images generated*
+
+![Generated Image 2](results/image2.png)
+*64x64 images generated*
+
+Due to limited computational resources, further training of the model was stopped at this stage. While the generated 64x64 images are promising, PGAN has the potential to generate even higher-resolution images with extended training. Future work may involve overcoming resource constraints to continue training and explore larger image sizes.
+
+## Acknowledgments
+
+The Progressive GAN research paper by Karras et al. introduced this approach for high-resolution image generation.
+
+## References
+
+- [Progressive GAN Research Paper](https://arxiv.org/abs/1710.10196)
+- [CelebA Dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
 
