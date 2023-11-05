@@ -37,13 +37,13 @@ The implementation of CycleGAN draws inspiration from the original work by Jun-Y
 
 ## Results
 
-![Horse-to-Zebra Translation](results/picture1.png)<br>
+![Horse-to-Zebra Translation](results/Picture1.png)<br>
 *Horse Image (Left) Translated to Zebra Image (Right)*
 
-![Horse-to-Zebra Translation](results/picture2.png)<br>
+![Horse-to-Zebra Translation](results/Picture2.png)<br>
 *Horse Image (Left) Translated to Zebra Image (Right)*
 
-![Horse-to-Zebra Translation](results/picture3.png)<br>
+![Horse-to-Zebra Translation](results/Picture3.png)<br>
 *Horse Image (Left) Translated to Zebra Image (Right)*
 
 Our CycleGAN model successfully translates horse images into zebra-style images, showcasing the power of unpaired image translation. The generated images maintain the visual fidelity of zebras while preserving the essence of the original horse images.
